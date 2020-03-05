@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcc689f4-4627-4713-8883-d67fce00e89f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/EwaHaaglanden/assets/js/vue/components/Example.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EwaHaaglanden/templates/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EwaHaaglanden/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/EwaHaaglanden/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EwaHaaglanden/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/EwaHaaglanden/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EwaHaaglanden/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/EwaHaaglanden/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EwaHaaglanden/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/EwaHaaglanden/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EwaHaaglanden/config/packages/notifier.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EwaHaaglanden/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/EwaHaaglanden/config/routes.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EwaHaaglanden/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/EwaHaaglanden/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EwaHaaglanden/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/EwaHaaglanden/templates/base.html.twig" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/EwaHaaglanden/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EwaHaaglanden/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EwaHaaglanden/templates/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EwaHaaglanden/config/routes.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EwaHaaglanden/assets/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="46" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="46" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#372#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EwaHaaglanden/assets/js/vue/components/Example.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EwaHaaglanden/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EwaHaaglanden/src/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EwaHaaglanden/templates/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>5.0.*</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>4.4.*</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/EwaHaaglanden/composer.json" />
+        <option value="$PROJECT_DIR$/EwaHaaglanden/src/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/EwaHaaglanden/config/routes.yaml" />
+        <option value="$PROJECT_DIR$/EwaHaaglanden/webpack.config.js" />
+        <option value="$PROJECT_DIR$/EwaHaaglanden/assets/js/vue/components/Example.vue" />
+        <option value="$PROJECT_DIR$/EwaHaaglanden/templates/base.html.twig" />
+        <option value="$PROJECT_DIR$/EwaHaaglanden/templates/index.html.twig" />
+        <option value="$PROJECT_DIR$/EwaHaaglanden/assets/js/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/composer" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/test-pack" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/serializer-pack" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/twig-pack" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/debug-pack" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/webpack-encore-bundle" />
+      <path value="$PROJECT_DIR$/EwaHaaglanden/vendor/symfony/debug" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EwaHaaglanden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwaHaaglanden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwaHaaglanden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwaHaaglanden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwaHaaglanden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwaHaaglanden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwaHaaglanden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwaHaaglanden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="EwaHaaglanden" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Dev_Tools/npm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc689f4-4627-4713-8883-d67fce00e89f" name="Default Changelist" comment="" />
+      <created>1583344008779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583344008779</updated>
+      <workItem from="1583344012503" duration="4407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4407000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1096" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/templates/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/config/routes.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/templates/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/templates/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/src/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#372#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EwaHaaglanden/assets/js/vue/components/Example.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
